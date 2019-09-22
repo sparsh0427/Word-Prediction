@@ -49,9 +49,7 @@ For example, if I type “I”, the program should tell me that the next possibl
 
 Subsequently, if I type “I love”, the program should tell me that the next word could be: 1) the 2) my 3) and 4) doing.  
 
-If I type in the word “I love the”, your program should tell me that the next word could be (in ranking): 1) way 2) my 3) work 4) 
-
-beauty.
+If I type in the word “I love the”, your program should tell me that the next word could be (in ranking): 1) way 2) my 3) work 4) beauty.
 
 Limit yourself to the combinations of 4 words only.
 
